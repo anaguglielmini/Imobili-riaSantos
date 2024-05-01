@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+/* Estilos Globais */
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+p{
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+span{
+    font-weight: bold;
+}
+
+/* 1º seção */
+
+.cabecalho{
+    background-color: #afddfb;
+}
+
+.cabecalho img{
+    width: 150px;
+}
+
+.cabecalho p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.cabecalho a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* 2º seção*/
+
+.banner{
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+/* 3º seção */
+
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2{
+    color: #00c6af;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.sobre img, .corretores img{
+    width: 450px;
+}
+
+.sobre span, .corretores span{
+    color: #00c6af;
+}
+
+/* 4º seção */
+
+.servicos, .contato{
+    background-color: #00c6af;
+}
+
+.servicos h2, .contato h2{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: bold;
+}
+
+.servicos p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.servicos span{
+    color: #fcfcd4;
+}
+
+.servicos ul{
+    margin: 40px auto;
+    width: 135px;
+}
+
+.servicos li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+/* 5º seção */
+
+.corretores h2{
+    color:#00c6af;
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: bold;
+}
+
+/* 6º seção */
+
+.contato p{
+    color: #ffffff;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.contato span{
+    color: #1d1d1d;
+    text-decoration: underline;
+}
+
+.contato ul{
+    margin: 40px auto;
+    width: 300px;
+}
+
+.contato li{
+    margin-top: 15px;
+    background-color:  #FAFABC;
+    color: #00c6af;
+    text-align: center;
+    font-size: 18px;
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
